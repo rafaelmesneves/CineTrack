@@ -1,0 +1,9 @@
+body {
+    background-color: #f0f4c3;
+}
+
+.nav-extended {
+    background-image: url('https://i.postimg.cc/3Jj0ffj2/background.png');
+    background-size: cover;
+    background-blend-mode: soft-light;
+}
