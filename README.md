@@ -7,4 +7,5 @@ Este projeto está sendo desenvolvido em PHP utilizando:
 - PDO;
 - MVC.
 
-![Template](https://link-da-imagem.com/imagem.png](https://i.postimg.cc/W4bQxrD5/Captura-de-tela-20-8-2024-91157-localhost.jpg)
+![Template](https://i.postimg.cc/W4bQxrD5/Captura-de-tela-20-8-2024-91157-localhost.jpg)
+
